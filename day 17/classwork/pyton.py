@@ -23,7 +23,7 @@ else:
 #     print("equal)
 
 
-firsta=9
+firsrsta=9
 secenda=11
 if firsta >= secenda:
-    print("secend" )
+    ("secend" )
