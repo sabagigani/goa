@@ -25,6 +25,6 @@ def creati_name(first,last):
      last = last.capitalize()
      return first + " " + last
 full_name = creati_name("saba","gigani")
-print(full_name)
+print(full_name )
 
      

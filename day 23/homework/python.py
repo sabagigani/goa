@@ -2,15 +2,18 @@ original_text = "goa"
 upper_text = original_text.upper()
 print(upper_text)
 
+text = ("PROGRAMENG")
+print("text".lower())
 
-text = "PROGRAMMING"
-print(text.lower()) 
-
-sentence = "python"
+sentence = "pyton"
 capitalized_sentence = sentence.capitalize()
 print(capitalized_sentence)  
 
+text =("hello")
+print("text".find("l"))
 
-ext = "Hello"
-index = text.find("l")
-print(index) # Output: 7
+
+text=("GOA")
+print("text".find("A"))
+
+
