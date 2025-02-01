@@ -10,4 +10,3 @@ password=input("type your email heare =")
 for i in range(email):
   password.append(int(input()))
 
-print(&quot;List of numbers:&quot;, number_list)
