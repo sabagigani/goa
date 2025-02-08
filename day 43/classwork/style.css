@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+    color: #FFFFFF;
+
+text-shadow: 0 -1px 4px #FFF, 0 -2px 10px #ff0, 0 -10px 20px #ff8000, 0 -18px 40px #F00;
+color: #FFFFFF;
+
+}
+#cmd{
+     
+     font-weight: 100;
+     
+}
+#goa{
+    font-weight: 600;
+}
+#school{
+    font-weight: 900;
+}
