@@ -1,0 +1,22 @@
+body{
+    background-color: white;
+}
+table {
+    border-collapse: collapse;
+    width: 80%;
+        margin: 20px auto;
+}
+th, td {
+
+    border: 1px solid #000;
+     padding: 8px;
+     text-align: center;
+}
+td{
+    transition: 0.25;
+}
+tbody tr:hover {
+    background-color: yellowgreen;
+    color: aqua;
+  }
+    
